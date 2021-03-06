@@ -12,6 +12,7 @@ namespace AppSeriesRegister.Classes
         private string Title { get; set; }
         private string Description { get; set; }
         private int Year { get; set; }
+        private bool IsDeleted { get; set; }
 
         //Methods
         public Serie(int id, Genre genre, string title, string description, int year)
@@ -21,6 +22,7 @@ namespace AppSeriesRegister.Classes
             Title = title;
             Description = description;
             Year = year;
+            IsDeleted = false;
         }
 
         public override string ToString()
@@ -42,5 +44,16 @@ namespace AppSeriesRegister.Classes
         {
             return this.Id;
         }
+
+        public void DeleteIt()
+        {
+            this.IsDeleted = true;
+        }
+
+        public bool IsItDeleted()
+        {
+            return this.IsDeleted;
+        }
+
     }
 }

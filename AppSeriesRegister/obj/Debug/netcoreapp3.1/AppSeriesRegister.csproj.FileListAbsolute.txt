@@ -1,0 +1,13 @@
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\bin\Debug\netcoreapp3.1\AppSeriesRegister.exe
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\bin\Debug\netcoreapp3.1\AppSeriesRegister.deps.json
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\bin\Debug\netcoreapp3.1\AppSeriesRegister.runtimeconfig.json
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\bin\Debug\netcoreapp3.1\AppSeriesRegister.runtimeconfig.dev.json
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\bin\Debug\netcoreapp3.1\AppSeriesRegister.dll
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\bin\Debug\netcoreapp3.1\AppSeriesRegister.pdb
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\obj\Debug\netcoreapp3.1\AppSeriesRegister.csprojAssemblyReference.cache
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\obj\Debug\netcoreapp3.1\AppSeriesRegister.AssemblyInfoInputs.cache
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\obj\Debug\netcoreapp3.1\AppSeriesRegister.AssemblyInfo.cs
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\obj\Debug\netcoreapp3.1\AppSeriesRegister.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\obj\Debug\netcoreapp3.1\AppSeriesRegister.dll
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\obj\Debug\netcoreapp3.1\AppSeriesRegister.pdb
+C:\Users\santo\source\repos\AppSeriesRegister\AppSeriesRegister\obj\Debug\netcoreapp3.1\AppSeriesRegister.genruntimeconfig.cache

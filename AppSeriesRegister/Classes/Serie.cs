@@ -31,7 +31,8 @@ namespace AppSeriesRegister.Classes
             _return += "Genre: " + this.Genre + Environment.NewLine;
             _return += "Title: " + this.Title + Environment.NewLine;
             _return += "Description: " + this.Description + Environment.NewLine;
-            _return += "Release date: " + this.Year;
+            _return += "Release date: " + this.Year + Environment.NewLine;
+            _return += "Deleted: " + this.IsDeleted;
             return _return;
         }
 
